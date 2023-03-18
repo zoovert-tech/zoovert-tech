@@ -12,7 +12,7 @@
 <div align="center">
 <h3>About me <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"> : </div>
 <div align="left">- I am a c++ developer :cd:  </div>
-<div align="left">- My name is Sergei :hash: </div>
+<div align="left">- My name is Sergey :hash: </div>
 <div align="left">- I love game engines and everything related to them :fire: </div>
 <div align="left">- I like to discover new things for myself :mountain: </div>
 <div align="left">- I love pizza. :pizza:  </h3>
