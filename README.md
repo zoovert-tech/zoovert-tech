@@ -19,11 +19,6 @@
 
 ---
 <div align="center">
-<h3>Stats :fire: : </h3>
-</div>
-
----
-<div align="center">
  <h3>Favorite projects:heart: : </h3>
 </div>
 <h3>I'll add them here someday</h3>
