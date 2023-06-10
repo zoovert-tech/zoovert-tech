@@ -22,13 +22,6 @@
 <h3>Stats :fire: : </h3>
 </div>
 
-<div align="center">
-  <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=zoovert-tech" />
-</div>
-<div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoovert-tech" />
-</div>
-
 ---
 <div align="center">
  <h3>Favorite projects:heart: : </h3>
